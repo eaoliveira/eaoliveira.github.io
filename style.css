@@ -5,3 +5,13 @@
     background-color: #190933;
     height: 10vh;
 }
+.header{
+    float: left;
+}
+.nav a{
+    display: block;
+    height: 10vh;
+    background-color: #190933;
+    border-left: #fff solid 1px;
+    color: #fff;
+}
